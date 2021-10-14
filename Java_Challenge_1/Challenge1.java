@@ -1,4 +1,4 @@
-public class BasicJava3 {
+public class Challenge1 {
     public static void main(String args[]) {
         // Chalenge Buat Biodata Diri
         String Garis1         = "______________________________________";
